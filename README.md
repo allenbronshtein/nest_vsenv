@@ -11,6 +11,6 @@ Or you can just download the env from here
 
 If you choose to create your own local env just run:
 
-nest new <project-name>, and dont forget to add missing fields in launch.json
+nest new project-name, and dont forget to add missing fields in launch.json
   
 it will enable you to breakpoint and debug
