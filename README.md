@@ -1,4 +1,7 @@
 # nest_vsenv
+
+For my STU team:
+
 Make sure you have nodejs and npm installed. 
 
 Install nestjs cli by running:
